@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.imges .imgg{
+    height: 350px;
+    width: 350px;
+}
+
+
+.imges .click{
+    display: flex;
+}
+
+.imges .click button{
+    height: 100px;
+    width: 100px;
+    border: none;
+}
